@@ -1,0 +1,12 @@
+{
+  "name": "pg-class-challenge",
+  "version": "1.0.0",
+  "description": "Class Concept Code Challenge: Create a class called Animal that has a name property and a speak method. The speak method should log a message to the console saying \"Hello, my name is {name}.\" Create an instance of the Animal class and call the speak method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
